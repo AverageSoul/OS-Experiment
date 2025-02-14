@@ -1,0 +1,25 @@
+Booting  ............
+Ready.
+
+Loading  .....................................
+Ready.
+
+BaseAddrL BaseAddrH LengthLow LengthHigh   Type
+00000000h 00000000h 0009F000h 00000000h 00000001h
+0009F000h 00000000h 00001000h 00000000h 00000002h
+000E8000h 00000000h 00018000h 00000000h 00000002h
+00100000h 00000000h 01EF0000h 00000000h 00000001h
+01FF0000h 00000000h 00010000h 00000000h 00000003h
+FFFC0000h 00000000h 00040000h 00000000h 00000002h
+
+RAM size:01FF0000h
+-----"cstart" begins-----
+-----"cstart" finished-----
+-----"kernel_main" begins-----
+<Ticks:0xF><Ticks:0x2F><Ticks:0x4F><Ticks:0x6F><Ticks:0x95><Ticks:0xB6><Ticks:0x
+D6><Ticks:0xFC><Ticks:0x11C><Ticks:0x13E><Ticks:0x15D><Ticks:0x181><Ticks:0x1A2>
+<Ticks:0x1C4><Ticks:0x1E3><Ticks:0x207><Ticks:0x228><Ticks:0x24A><Ticks:0x26E><T
+icks:0x28D><Ticks:0x2AF><Ticks:0x2D3><Ticks:0x2F7><Ticks:0x316><Ticks:0x338><Tic
+ks:0x359><Ticks:0x37B><Ticks:0x39F><Ticks:0x3C1><Ticks:0x3E5><Ticks:0x409><Ticks
+:0x42A><Ticks:0x44A><Ticks:0x46E><Ticks:0x492><Ticks:0x4B3><Ticks:0x4D3><Ticks:0
+x4F7><Ticks:0x51B><Ticks:0x53D><Ticks:0x55F><Ticks:0x583><Ticks:0x5A2><Ticks:0x5
